@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: 6ee4036a65feb8a4c89967aab4e97b3d
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarAtlas
+    second: {fileID: 2100000, guid: 91ff46257fc84de4180c9fd0f2795144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_Carpet
+    second: {fileID: 2100000, guid: 7a073d0080cadd045a66cf02a7c853c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsLicensePlates
+    second: {fileID: 2100000, guid: 9547ba7e7b9750047945ebb4a538fcf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsTires
+    second: {fileID: 2100000, guid: 924e8c54106d2dd47a60e09e326a1961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_GraphicAtlas
+    second: {fileID: 2100000, guid: d004e9c4a7ba3ed4ca5247700ee5ae4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_MetalPaintTrim
+    second: {fileID: 2100000, guid: 42b17f00fbd10654fa562427dfaa0dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableA
+    second: {fileID: 2100000, guid: 354f8baaf5f323e48bdfcb35fb919863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableB
+    second: {fileID: 2100000, guid: 7b1681eb072b7a341811f3627de40268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_RubberTrim
+    second: {fileID: 2100000, guid: 4a08c96ab4af1ca4191b5ff3733e0817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_SeatsTrim
+    second: {fileID: 2100000, guid: 6f1ae3243e6fdf04aa3ce12c2b9d3e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckA
+    second: {fileID: 2100000, guid: 3aae743e7294bb6449cb49134f7559b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckB
+    second: {fileID: 2100000, guid: ffc52a1d032b7b345939ea3927102289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckTranslElem
+    second: {fileID: 2100000, guid: abaadf37fb3255c4a8c14aca9361681f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_UndercarriageTrim
+    second: {fileID: 2100000, guid: 620f013b83e966a43b62e9ab104ef582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_WorkTruckA
+    second: {fileID: 2100000, guid: 4cbc6c0a1e5ba3c49adba0dc522ecba5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarAtlas_basecolor
+    second: {fileID: 2800000, guid: bec1a44328911da458429354e1a95f97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarAtlas_emissive
+    second: {fileID: 2800000, guid: 3443ca7afeecfa64081defb323f934c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarAtlas_metallic
+    second: {fileID: 2800000, guid: a54ad3a7d3ce2bd4e892a0f642923e8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarAtlas_normal
+    second: {fileID: 2800000, guid: 5e0cf118993ec384e98e52161e938cad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarAtlas_roughness
+    second: {fileID: 2800000, guid: 6c3b4f799bd56654cb2ea6bbeaa9840a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_Carpet_basecolor
+    second: {fileID: 2800000, guid: ce2b9fdae7242e744a527d7bed5ace31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_Carpet_metallic
+    second: {fileID: 2800000, guid: 51944a0d8f71b0043b38f9f7dbb29fc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_Carpet_normal
+    second: {fileID: 2800000, guid: 1962990818cbb7a42b8e5dc7e0f57a57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_Carpet_roughness
+    second: {fileID: 2800000, guid: fb4e76a6c74e98b4c9ea718e264d583e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsLicensePlates_basecolor
+    second: {fileID: 2800000, guid: 2e3f73a542683944a8210ffe78ea83e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsLicensePlates_metallic
+    second: {fileID: 2800000, guid: a9c1fadd39c6e0441a60df0f1d41ed0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsLicensePlates_normal
+    second: {fileID: 2800000, guid: 706c735178b2e76438eed03aba0cf5a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsLicensePlates_roughness
+    second: {fileID: 2800000, guid: 700cacce825dda04bbee2a73f6e2e385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsTires_basecolor
+    second: {fileID: 2800000, guid: d7d42635129e1e34cbb02ad02b00365e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsTires_metallic
+    second: {fileID: 2800000, guid: df7fdfa0af6ddfc4eb046f67886caf62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsTires_normal
+    second: {fileID: 2800000, guid: af841192f20dd3c45bc2425d8cd303a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_CarsTires_roughness
+    second: {fileID: 2800000, guid: bdc4407f248867f47a274aead93f8e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_GraphicAtlas_basecolor
+    second: {fileID: 2800000, guid: db530b1de469a4a41891edb4c297214f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_GraphicAtlas_metallic
+    second: {fileID: 2800000, guid: 9539cd6217a21944a9e08c5920355d63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_GraphicAtlas_normal
+    second: {fileID: 2800000, guid: 61c5938cdd6885942b5262d8b988fbcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_GraphicAtlas_roughness
+    second: {fileID: 2800000, guid: a5114f73c1c26bb479a91ae0fa5a1024, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_MetalPaintTrim_basecolor
+    second: {fileID: 2800000, guid: a3f4bef393eb05843a0f2061697859ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_MetalPaintTrim_metallic
+    second: {fileID: 2800000, guid: 056215e3975a57b4da7628911b2b9426, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_MetalPaintTrim_normal
+    second: {fileID: 2800000, guid: e9a2a37179a9a98449b69bbb245307b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_MetalPaintTrim_roughness
+    second: {fileID: 2800000, guid: 4993e9341566f284589b1ede1f28fe4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableA_basecolor
+    second: {fileID: 2800000, guid: 417105909fba2b84e816d33cfd2aa7ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableA_metallic
+    second: {fileID: 2800000, guid: 0ff21043635aadb4fb8b13c1a61cfbb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableA_normal
+    second: {fileID: 2800000, guid: 4b72b95204c3c974b873bbd69b54886d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableA_roughness
+    second: {fileID: 2800000, guid: a03379068e616be40974799c1fb5d271, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableB_basecolor
+    second: {fileID: 2800000, guid: b3322de3b4029074599078fdfaed2abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableB_metallic
+    second: {fileID: 2800000, guid: 7ffaf8851882429489a558b6785329b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableB_normal
+    second: {fileID: 2800000, guid: a3e20f3b76d61894f9d7b0b32daabf61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_PlasticTileableB_roughness
+    second: {fileID: 2800000, guid: 618a15eff2455574783631caffb56f22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_RubberTrim_basecolor
+    second: {fileID: 2800000, guid: 08893635bd81b7c40b872eb9674c6210, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_RubberTrim_metallic
+    second: {fileID: 2800000, guid: e34853096e039a848be32ab469674f38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_RubberTrim_normal
+    second: {fileID: 2800000, guid: d16d561183cff2040b9cf44e1359c2c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_RubberTrim_roughness
+    second: {fileID: 2800000, guid: a12964426d0c053489ebba5a6ab7e7ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_SeatsTrim_basecolor
+    second: {fileID: 2800000, guid: ccda2c323f7ee774a8cf7e3c55f089bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_SeatsTrim_metallic
+    second: {fileID: 2800000, guid: df04e42d3e6ad0b4589cad8d266005b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_SeatsTrim_normal
+    second: {fileID: 2800000, guid: 7b6362b9e0e560a4f9e5927e527491d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_SeatsTrim_roughness
+    second: {fileID: 2800000, guid: 88f1a09437b0dc94d9d4289551b60153, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckA_basecolor
+    second: {fileID: 2800000, guid: 51adae2ecac78a3458c922143a745aaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckA_emissive
+    second: {fileID: 2800000, guid: e6572515d6fcc3443b2705c0a33f4c68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckA_metallic
+    second: {fileID: 2800000, guid: 9a01f1829d484e94fa915e9ed8f169ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckA_normal
+    second: {fileID: 2800000, guid: 58427fce9dd1bc74dbde740e47773194, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_TowTruckA_roughness
+    second: {fileID: 2800000, guid: e35197237b5d02d4194307d39b861277, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_UndercarriageTrim_basecolor
+    second: {fileID: 2800000, guid: dcc1f9d02fd1ba44c883a51783bf1653, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_UndercarriageTrim_metallic
+    second: {fileID: 2800000, guid: 8479316e01985f747a9f0448acfc508d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_UndercarriageTrim_normal
+    second: {fileID: 2800000, guid: f837e0a735a044a42a6e8ce38347689d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_UndercarriageTrim_roughness
+    second: {fileID: 2800000, guid: 5bb063c0aae9d2a49bff34204a8e99d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_WorkTruckA_basecolor
+    second: {fileID: 2800000, guid: a1fd0cd9eec01af4c8693952a43f4488, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_WorkTruckA_emissive
+    second: {fileID: 2800000, guid: a84ba08daabe80a4f8b79e68e4395380, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_WorkTruckA_metallic
+    second: {fileID: 2800000, guid: c8d111035013e9a46b6b7b6d9e95ac4f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_WorkTruckA_normal
+    second: {fileID: 2800000, guid: 03582c388f3e1164888e7116c18be428, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KB3D_CCV_WorkTruckA_roughness
+    second: {fileID: 2800000, guid: 02b2f3b2536b4044f871957e112505d6, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
